@@ -12,8 +12,9 @@ Circumhorizontal Arc spotted over Seattle on June 7, 2021 (Photo courtesy: Long 
 
 https://www.nintendo.co.kr/hardware/switch/onlineservice/savedata/
 
-![IMG_1688](https://github.com/smarthug/saiun/assets/22899943/980ed491-bbf6-40a3-a9fe-b82ecb088fc5)
-![IMG_1689](https://github.com/smarthug/saiun/assets/22899943/8e02e313-4877-49a8-afdc-dfc42ce1dbc3)
+![image](https://github.com/smarthug/saiun/assets/22899943/74fcc113-9253-4cda-8e73-ce59519b9e67)
+
+![image](https://github.com/smarthug/saiun/assets/22899943/ab08a767-5da6-4104-960a-b06ae91bb7ac)
 
 
 
