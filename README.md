@@ -35,11 +35,17 @@ unity, unreal, godot, web , bevy 용 plugin 이나 패키지를 개발합니다
 * Cloudflare KV,Workers 사용
 * key 는 유저의 지갑 주소 등등, 고유값.  value 는 게임 저장데이터 json cid 배열 [ cid, cid, ... ]
 
+* ![image](https://github.com/smarthug/saiun/assets/22899943/ff3a0eba-0f69-45f1-b811-13de101d54f8)
+
+
 ## Phase2
 
 * mutable file system 을 사용해서, ipfs 의 , 하나의 깃 레포지토리로 만들어버림, 하나의 게임의 저장데이터들 === 하나의 깃 레포
 * 깃으로서의 커밋은 세이브, 체크아웃이 로드, 브랜치가 복사 로서 작동하게 함 , 머지 등등은 필요가 없음 , 리버트 필요없음 .. , 체리픽같은거는 고려 필요 이런걸로 새로운 시스템의 게임 플레이를 만들수도
 * cid/data.json 이런식으로 , 디렉토리를 고정 cid 로 해서 쓰는법도 있을듯 .
+
+* ![image](https://github.com/smarthug/saiun/assets/22899943/197f2156-d39f-4e4a-be90-c1abfe33c173)
+
 
 ## Phase3
 * 몬스터헌터 , 클리어파일, 세이브 파일 등등 노가다를 피하기 위해 , 세이브 데이터 파일 시장은 분명 수요가 존재함. 
